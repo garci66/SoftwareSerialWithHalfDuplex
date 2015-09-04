@@ -42,7 +42,7 @@ from arduino's github as of 2014/09/04 - garci66
 #include <avr/interrupt.h>
 #include <avr/pgmspace.h>
 #include <Arduino.h>
-#include "SoftwareSerialWithHalfDuplex.h"
+#include <SoftwareSerialWithHalfDuplex.h>
 #include <util/delay_basic.h>
 
 //
